@@ -91,7 +91,7 @@ Resampled stock closing prices into different time periods:
 
 ---
 
-##Author
+## Author
 -Gunjan Khatri
 
 
