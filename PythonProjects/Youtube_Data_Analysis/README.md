@@ -1,4 +1,5 @@
 # YouTube Data Analysis Project
+![](youtubelogo.webp)
 
 ## Overview
 This project performs comprehensive sentiment analysis on YouTube comments from US users. The analysis includes sentiment polarity scoring, word cloud visualization, and emoji usage patterns to understand viewer engagement and emotional responses.
