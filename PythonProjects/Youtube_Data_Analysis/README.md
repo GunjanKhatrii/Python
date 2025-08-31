@@ -130,7 +130,6 @@ The project generates several visualizations:
 
 
 ## Contact
-**Your Name** - your.email@example.com
 Project Link: [https://github.com/GunjanKhatrii/Youtube_Data_Analysis](https://github.com/GunjanKhatrii/Youtube_Data_Analysis)
 
 ## Acknowledgments
