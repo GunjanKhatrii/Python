@@ -165,7 +165,7 @@ Future versions will include:
 
 
 ## Contact
-Project Link: [https://github.com/GunjanKhatrii/Recommendation_system](https://github.com/GunjanKhatrii/Recommendation_system)
+Project Link: [https://github.com/GunjanKhatrii/Recommendation_systems](https://github.com/GunjanKhatrii/Recommendation_systems)
 
 ## Acknowledgments
 - **MovieLens**: University of Minnesota for providing the dataset
