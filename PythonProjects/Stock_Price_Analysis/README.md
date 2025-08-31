@@ -67,8 +67,31 @@ Resampled stock closing prices into different time periods:
 - **Findings**:
   - Apple & Amazon daily returns show partial linear correlation.
 
+
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
+- **Python Libraries**:
+  - `pandas` – Data handling
+  - `numpy` – Numerical operations
+  - `matplotlib` & `seaborn` – Data visualization
+  - `plotly` – Interactive visualization
+  - `glob` – File handling
+  - `warnings` – Handle future warnings
+
+---
+
+## 📊 Visualizations
+- 📈 Line plots of stock trends
+- 📉 Moving average plots
+- 🔄 Daily returns plots
+- 📊 Resampling (monthly, yearly trends)
+- 🔥 Correlation heatmaps
+- 🔗 Pair plots & PairGrid analysis
+
+---
+
+##Author
+-Gunjan Khatri
 
 
