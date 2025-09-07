@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Employee_0001",
+    "department": "Marketing",
+    "salary": 40101,
+    "hire_date": "2020-02-02",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Employee_0002",
+    "department": "Sales",
+    "salary": 40202,
+    "hire_date": "2020-03-03",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Employee_0003",
+    "department": "HR",
+    "salary": 40303,
+    "hire_date": "2020-04-04",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Employee_0004",
+    "department": "Finance",
+    "salary": 40404,
+    "hire_date": "2020-05-05",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Employee_0005",
+    "department": "Engineering",
+    "salary": 40505,
+    "hire_date": "2020-06-06",
+    "is_active": true
+  }
+]
