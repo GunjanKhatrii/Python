@@ -50,13 +50,13 @@ Standard Library Only (no external dependencies)
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/data-serialization-manager.git
-cd data-serialization-manager
+git clone https://github.com/GunjanKhatrii/Python/blob/main/PythonProjects/DataSerializationManager/DataSerializationManager.py
+cd DataSerializationManager
 ```
 
 2. **Run the demo:**
 ```bash
-python data_serialization_manager.py
+python DataSerializationManager.py
 ```
 
 ## 💻 Usage
@@ -263,16 +263,10 @@ This project demonstrates proficiency in:
 
 ## 📞 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [@GunjanKhatrii](https://github.com/GunjanKhatrii)
+- **LinkedIn:** [Gunjan Khatri](https://www.linkedin.com/in/gunjan-khatri-b6053a203/)
 
 ---
 
-⭐ **Star this repository** if you found it helpful for learning data serialization techniques!
+⭐ **Star this repository** if you found it helpful for learning data serialization techniques!⭐
 
-## 🔗 Related Projects
-
-- [File Processing Pipeline](https://github.com/yourusername/file-processing-pipeline)
-- [Data Analysis Toolkit](https://github.com/yourusername/data-analysis-toolkit)
-- [Performance Benchmarking Suite](https://github.com/yourusername/performance-benchmarks)
