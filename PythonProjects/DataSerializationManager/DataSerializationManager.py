@@ -6,7 +6,7 @@ A comprehensive project demonstrating various data serialization techniques in P
 Supports JSON, Pickle, CSV, XML, and Binary formats with performance benchmarking.
 
 Author: Gunjan Khatri
-Date: 7 september 2025
+Date: 12 July 2025
 """
 
 import json
